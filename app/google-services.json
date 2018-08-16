@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "308754637129",
+    "firebase_url": "https://tenlac11.firebaseio.com",
+    "project_id": "tenlac11",
+    "storage_bucket": "tenlac11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308754637129:android:2bd43b1c44ad6f97",
+        "android_client_info": {
+          "package_name": "com.epifi.tenlac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308754637129-dgrp212d709g3trvgi2l184d5vr2u48q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGkQGP50n9JkGsr7NrvFt8JBO0VkBJzM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
